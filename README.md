@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Touchy Keep Clone by Rajan Gautam
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made by Rajan Gautam using React, Bootstrapa and Material-UI.
 
-## Available Scripts
+## Site URL:
 
-In the project directory, you can run:
+This site's published on the given URL.
 
-### `npm start`
+Link: https://rgautam320-touchy-keep.netlify.app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Steps to Run the Application
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### STEP 1:
 
-### `npm test`
+You can see the screen like this when you first open the Application.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Touchy-Keep-Home](https://user-images.githubusercontent.com/71542496/115122854-d6797080-9fd7-11eb-9b8c-bd875d69ed78.png)
 
-### `npm run build`
+### STEP 2:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You need to type on the Note Box. You can type title of the note and description of the note. Then you just need to click on Plus icon there.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Touchy-Keep-0](https://user-images.githubusercontent.com/71542496/115122900-18a2b200-9fd8-11eb-906a-25032c055636.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Step 3:
 
-### `npm run eject`
+You can add as many notes you want. All the notes are being saved in your Local Machine in that particular session i.e. Browser Session.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![Touchy-Keep-1](https://user-images.githubusercontent.com/71542496/115122970-73d4a480-9fd8-11eb-9edd-073bf4e04c0a.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Touchy-Keep-2](https://user-images.githubusercontent.com/71542496/115122979-7a631c00-9fd8-11eb-8504-cc0b6bda2199.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### STEP 4:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You can delete any notes if you want. You just need to click on Delete icon of particular note which you want to delete.
 
-## Learn More
+![Touchy-Keep-3](https://user-images.githubusercontent.com/71542496/115122998-9b2b7180-9fd8-11eb-8c33-434c7383df40.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Rajan Gautam
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Thank You
